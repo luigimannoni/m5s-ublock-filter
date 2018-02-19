@@ -11,8 +11,9 @@ Il problema dei social media, facebook in primis, é la mancanza di moderazione 
 
 Quindi se anche tu ti sei rotto le palle di dover leggere "Quindi hanno inventato l'elettore del PD" sotto un articolo di una qualsiasi testata nazionale intitolato "Creato il primo embrione uomo-maiale" questo é il filtro che fa per te.
 
-## Ma facebook ha giá la funzione blocca o nascondi!
+Se anche tu ne hai le palle piene di leggere insulti da terza elementare, entra nel club!
 
+## Ma facebook ha giá la funzione blocca o nascondi!
 Piú che giusto, questo filtro peró é nato con l'idea di centralizzare una lista di profili e pagine "tossiche". 
 
 ## Come funziona?
@@ -21,6 +22,6 @@ Semplicemente tramite le estensioni uBlock/Adblock, scaricabili dal tuo browser.
 Al momento il filtro aggiunge solo una semplicissima wordlist di parole proibite nei commenti, l'estensione penserá al resto rimuovendo il commento dal browser. Nella roadmap il filtro verrá probabilmente cambiato per targettare user ID specifici invece di una wordlist generica.   
 
 ## Come posso contribuire?
-Nel modo piú semplice: aprendo una [issue](https://github.com/luigimannoni/m5s-ublock-filter/issues) linkando la tua pagina preferita di bufale, oppure se hai un profilo da segnalare link al profilo incriminato, é comunque necessaria una revisione prima di includere un profilo nella blacklist.
+Nel modo piú semplice: aprendo una [issue](https://github.com/luigimannoni/m5s-ublock-filter/issues) con i tuoi suggerimenti o problemi riscontrati, oppure linkando la tua pagina preferita di bufale, oppure se hai un profilo da segnalare link al profilo incriminato, é comunque necessaria una revisione prima di includere un profilo nella blacklist.
 
 Se ti vuoi sbattere di piú e sai come usare git, forka questa repo e crea una pull request con le tue modifiche 
