@@ -14,7 +14,8 @@ Quindi se anche tu ti sei rotto le palle di dover leggere "Quindi hanno inventat
 Se anche tu ne hai le palle piene di leggere insulti da terza elementare, entra nel club!
 
 ## Ma facebook ha giá la funzione blocca o nascondi!
-Piú che giusto, questo filtro peró é nato con l'idea di centralizzare una lista di profili e pagine "tossiche". 
+Piú che giusto, questo filtro peró é nato con l'idea di centralizzare una lista di profili e pagine "tossiche" ove la funziona blocca/nascondi purtroppo rimane fine a se stessa. 
+Inoltre per qualche losca policy di facebook alcune pagine sono purtroppo immuni da questa funzione e non possono essere nascoste, mentre questo filtro aiuta a eliminare ogni tipo di aneurisma provocato da post stupidi. 
 
 ## Come funziona?
 Semplicemente tramite le estensioni uBlock/Adblock, scaricabili dal tuo browser. Dopo aver installato la tua estensione preferita apri le impostazioni e aggiungi `https://raw.githubusercontent.com/luigimannoni/m5s-ublock-filter/master/filter-list.txt`  alla lista dei filtri Custom.
