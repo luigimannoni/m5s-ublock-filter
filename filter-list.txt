@@ -1,0 +1,8 @@
+www.facebook.com##.UFIComment:has-text(grillini)
+www.facebook.com##.UFIComment:has-text(grillino)
+www.facebook.com##.UFIComment:has-text(grillo)
+www.facebook.com##.UFIComment:has-text(beppe grillo)
+www.facebook.com##.UFIComment:has-text(pentastellati)
+www.facebook.com##.UFIComment:has-text(di maio)
+www.facebook.com##.UFIComment:has-text(pidioti)
+www.facebook.com##.UFIComment:has-text(di battista)
